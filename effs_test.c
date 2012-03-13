@@ -1,4 +1,4 @@
-/* testing
+/* testing 4 5 6
 Using the project to test various software configuration systems.
 
 File: effs_test.c
